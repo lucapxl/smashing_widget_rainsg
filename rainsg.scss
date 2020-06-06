@@ -1,0 +1,32 @@
+// ----------------------------------------------------------------------------
+// Widget styles
+// ----------------------------------------------------------------------------
+.singaporeImage {
+  width: 100%;
+  height: 100%;
+  background-color: #727b7e;
+  background-image:url('singapore-dark.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  overflow: hidden;
+}
+#rainimage {
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-image:url('');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  overflow: hidden;
+}
+#datetime {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: black;
+  color: white;
+  padding: 3px 10px 3px 10px;
+  font-size: 20px
+}
