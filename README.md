@@ -3,7 +3,7 @@
 [Smashing](https://smashing.github.io) widget that displays an animated radar of the current rain areas in Singapore.
 
 ## Example
-TODO
+![example1](https://github.com/lucapxl/smashing_widget_rainsg/blob/master/images/rainsg.png)
 
 ## Installation and Configuration
 
